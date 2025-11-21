@@ -6,9 +6,9 @@ function App() {
     return (
         <div>
             <h1>Engineering College React Demo</h1>
-            <Welcome name="Aida" />
+            <Welcome name="Kairat" />
             <Welcome name="Nurlan" />
-            <Welcome name="Dastan" />
+            <Welcome name="Aidar" />
         </div>
     );
 }
